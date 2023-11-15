@@ -1,8 +1,8 @@
 # Codewars\_\_Completed-TypeScript-Katas
 
 Completed Codewars Katas🐱‍👤
-My Profile => [codewars.com/adamalrasi](https://www.codewars.com/users/adamalrasi)
-![image](https://github.com/adamalrasi/Codewars__Completed-TypeScript-Katas/assets/147779056/b62146a6-a15b-4751-9f8f-d1c092d41186)
+My Profile => [codewars.com/adamalrasi](https://www.codewars.com/users/adamalrasi) <br>
+![image](https://github.com/adamalrasi/Codewars__Completed-TypeScript-Katas/assets/147779056/b62146a6-a15b-4751-9f8f-d1c092d41186) <br>
 This repository contains my solutions to most of the katas I have completed. I created this repository to track my progress and become a better programmer by writing cleaner, more efficient, and readable code.😎
 
 But let's be honest, I'm still learning. So some of my code may be a bit hacky. But it works! And that's all that matters, right?😅
