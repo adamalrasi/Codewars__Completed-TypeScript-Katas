@@ -9,6 +9,10 @@ But let's be honest, I'm still learning. So some of my code may be a bit hacky. 
 
 I hope you find my solutions helpful. And if you don't, well, at least you can get a good laugh out of them.🥳
 
+![image](https://github.com/adamalrasi/Codewars__Completed-TypeScript-Katas/assets/147779056/a76ba46b-957e-4056-82b3-00e4fab54088)
+![image](https://github.com/adamalrasi/Codewars__Completed-TypeScript-Katas/assets/147779056/d04e1a03-37a6-41b4-9f39-aac9c8ddf112)
+
+
 // codewars profile stats:
 
 /_ 14/10/2023 <br>
